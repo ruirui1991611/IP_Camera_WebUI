@@ -1,6 +1,5 @@
 <?php
-//index页面，先检查是否已通过ipc-property工具设置了database path
-include "check_database.php";
+require "common.php"
 check_session("login/login.html");
 ?>
 <!DOCTYPE html>
