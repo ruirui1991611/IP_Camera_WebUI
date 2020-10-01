@@ -28,27 +28,16 @@ check_session("login/login.html");
 	<div class="layui-layout layui-layout-admin">
 		<div class="layui-header">
 			<div class="layui-logo"><img src="xxxlogo.png" /></div>
-			<ul class="layui-nav layui-layout-left"  lay-filter="treenav">
+			    <ul class="layui-nav layui-layout-left"  lay-filter="treenav">
 					<li class="layui-nav-item">
 						<a id="face" href="javascript:;" class="site-url" data-url="facetable/facetable.php">
-							<?php echo gettext("Face Management"); ?>
+							<?php echo gettext("Face Table"); ?>
 						</a>
 					</li>
 					<li class="layui-nav-item">
 						<a id="user" href="javascript:;" class="site-url" data-url="usertable/usertable.php">
-							<?php echo gettext("User Management"); ?>
+							<?php echo gettext("User Table"); ?>
 						</a>
-					</li>
-					<li class="layui-nav-item">
-						<a href="javascript:;"><?php echo gettext("Setting"); ?></a>
-						<dl class="layui-nav-child">
-							<dd>
-								<a id="ipc" href="javascript:;" class="site-url" data-url="settings/ipc-settings.php">IPC</a>
-							</dd>
-							<dd>
-								<a id="rtsp" href="javascript:;" class="site-url" data-url="settings/rtsp-settings.php">RTSP</a>
-							</dd>
-						</dl>
 					</li>
 				</ul>
 				<ul class="layui-nav layui-layout-right">
