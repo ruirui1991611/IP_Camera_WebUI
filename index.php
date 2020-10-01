@@ -190,7 +190,7 @@ check_session("login/login.html");
 					, maxmin: true
 					, area: ['640px', '410px']
 					, offset: 'rb'
-					, content: ['view-stream.php', 'no']
+					, content: ['display_video.php', 'no']
 
 					, zIndex: layer.zIndex
 					, success: function (layero, index) {
