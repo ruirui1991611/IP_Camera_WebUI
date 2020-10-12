@@ -1,0 +1,539 @@
+# Chinese translations for PACKAGE package.
+# Copyright (C) 2019 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# shanghai engineers <hengrui.li@amlogic.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-30 15:23+0800\n"
+"PO-Revision-Date: 2019-07-30 15:24+0800\n"
+"Last-Translator: shanghai engineers <hengrui.li@amlogic.com>\n"
+"Language-Team: Chinese (simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index.php:37 index.php:35
+msgid "Face Management"
+msgstr "人脸管理"
+
+#: index.php:38 index.php:40
+msgid "User Management"
+msgstr "用户管理"
+
+#: index.php:40 index.php:44
+msgid "Setting"
+msgstr "设置"
+
+#: index.php:51 index.php:64
+msgid "logout"
+msgstr "登出"
+
+#: facetable/facetable.php:17
+msgid "FaceInfo"
+msgstr "人脸信息"
+
+#: facetable/facetable.php:21 usertable/usertable.php:22
+msgid "refresh"
+msgstr "刷新"
+
+#: facetable/facetable.php:22
+msgid "face capture"
+msgstr "捕捉人脸"
+
+#: facetable/facetable.php:23
+msgid "face capture from image"
+msgstr "上传图片捕捉人脸"
+
+#: facetable/facetable.php:24
+msgid "customized database"
+msgstr "自定义数据库"
+
+#: facetable/facetable.php:25
+msgid "save database"
+msgstr "保存数据库"
+
+#: facetable/facetable.php:26
+msgid "capture and save image"
+msgstr "捕捉并保存图片"
+
+#: facetable/facetable.php:30 usertable/usertable.php:26
+msgid "check"
+msgstr "查看"
+
+#: facetable/facetable.php:31 usertable/usertable.php:27
+msgid "edit"
+msgstr "编辑"
+
+#: facetable/facetable.php:32 usertable/usertable.php:28
+msgid "delete"
+msgstr "删除"
+
+#: facetable/facetable.php:39
+msgid "Index:"
+msgstr "序号:"
+
+#: facetable/facetable.php:45 usertable/usertable.php:35
+#: usertable/usertable.php:48
+msgid "Name:"
+msgstr "姓名:"
+
+#: facetable/facetable.php:88 facetable/facetable.php:169
+msgid "index"
+msgstr "序号"
+
+#: facetable/facetable.php:89 facetable/facetable.php:170
+#: usertable/usertable.php:88 usertable/usertable.php:158
+msgid "uid"
+msgstr "用户ID"
+
+#: facetable/facetable.php:90 facetable/facetable.php:171
+#: usertable/usertable.php:89 usertable/usertable.php:159
+msgid "name"
+msgstr "姓名"
+
+#: facetable/facetable.php:92 facetable/facetable.php:172
+msgid "image"
+msgstr "图像"
+
+#: facetable/facetable.php:95 facetable/facetable.php:175
+#: usertable/usertable.php:90 usertable/usertable.php:160
+msgid "operation"
+msgstr "操作"
+
+#: facetable/facetable.php:108 usertable/usertable.php:115
+msgid "check operation"
+msgstr "查看操作"
+
+#: facetable/facetable.php:111 usertable/usertable.php:118
+msgid "really want to delete this line?"
+msgstr "真的删除行么?"
+
+#: facetable/facetable.php:112 usertable/usertable.php:119
+msgid "Message"
+msgstr "信息"
+
+#: facetable/facetable.php:112 facetable/facetable.php:320
+#: usertable/usertable.php:119 usertable/usertable.php:187
+#: usertable/usertable.php:256
+msgid "OK"
+msgstr "确定"
+
+#: facetable/facetable.php:112 facetable/facetable.php:320
+#: usertable/usertable.php:119 usertable/usertable.php:187
+#: usertable/usertable.php:256
+msgid "Cancel"
+msgstr "取消"
+
+#: facetable/facetable.php:210
+msgid "can not capture face or face already exists"
+msgstr "未捕捉到人脸或人脸已存在"
+
+#: facetable/facetable.php:216
+msgid "request time out ..."
+msgstr "请求超时 ..."
+
+#: facetable/facetable.php:247
+msgid "can not capture face from image or face already exists"
+msgstr "从图片中未捕捉到人脸或人脸已存在"
+
+#: facetable/facetable.php:250
+msgid "upload image failed"
+msgstr "上传图片失败"
+
+#: facetable/facetable.php:315 usertable/usertable.php:251 rtsp-settings.php:56
+#: rtsp-settings.php:98 ipc-settings.php:92 ipc-settings.php:187
+#: ipc-settings.php:224 ipc-settings.php:267 ipc-settings.php:378
+#: ipc-settings.php:451 ipc-settings.php:532 ipc-settings.php:657
+#: ipc-settings.php:752 ipc-settings.php:798 ipc-settings.php:853
+msgid "Modify"
+msgstr "修改"
+
+#: facetable/facetable.php:349 usertable/usertable.php:213
+msgid "empty name is not allowed"
+msgstr "姓名不能为空"
+
+#: facetable/facetable.php:367 usertable/usertable.php:294
+msgid "modify successfully"
+msgstr "修改成功"
+
+#: facetable/facetable.php:369 usertable/usertable.php:296
+msgid "modify failed"
+msgstr "修改失败"
+
+#: facetable/facetable.php:395 usertable/usertable.php:324
+msgid "delete successfully"
+msgstr "删除成功"
+
+#: facetable/facetable.php:397 usertable/usertable.php:326
+msgid "delete failed"
+msgstr "删除失败"
+
+#: usertable/usertable.php:17
+msgid "UserInfo"
+msgstr "用户信息"
+
+#: usertable/usertable.php:21
+msgid "add"
+msgstr "添加"
+
+#: usertable/usertable.php:37
+msgid "please input name"
+msgstr "请输入姓名"
+
+#: usertable/usertable.php:182
+msgid "Add"
+msgstr "添加"
+
+#: usertable/usertable.php:226
+msgid "add successfully, result is on the last page"
+msgstr "添加成功, 结果位于最后一页"
+
+#: usertable/usertable.php:228
+msgid "add failed"
+msgstr "添加失败"
+
+#: rtsp-settings.php:37
+msgid "Authenticate"
+msgstr "认证"
+
+#: rtsp-settings.php:41
+msgid "username"
+msgstr "用户名"
+
+#: rtsp-settings.php:48
+msgid "password"
+msgstr "密码"
+
+#: rtsp-settings.php:57 rtsp-settings.php:99 ipc-settings.php:93
+#: ipc-settings.php:188 ipc-settings.php:225 ipc-settings.php:268
+#: ipc-settings.php:379 ipc-settings.php:452 ipc-settings.php:533
+#: ipc-settings.php:658 ipc-settings.php:753 ipc-settings.php:799
+#: ipc-settings.php:854
+msgid "Reset"
+msgstr "重置"
+
+#: rtsp-settings.php:65
+msgid "Network"
+msgstr "网络"
+
+#: rtsp-settings.php:69
+msgid "address"
+msgstr "地址"
+
+#: rtsp-settings.php:76
+msgid "port"
+msgstr "端口"
+
+#: rtsp-settings.php:83
+msgid "route"
+msgstr "路径"
+
+#: rtsp-settings.php:90
+msgid "subroute"
+msgstr "子路径"
+
+#: ipc-settings.php:24
+msgid "Video"
+msgstr "视频"
+
+#: ipc-settings.php:28 ipc-settings.php:122 ipc-settings.php:822
+msgid "bitrate"
+msgstr "比特率"
+
+#: ipc-settings.php:35 ipc-settings.php:116 ipc-settings.php:828
+msgid "codec"
+msgstr "编解码器"
+
+#: ipc-settings.php:53 ipc-settings.php:135 ipc-settings.php:211
+msgid "device"
+msgstr "设备"
+
+#: ipc-settings.php:59
+msgid "framerate"
+msgstr "帧率"
+
+#: ipc-settings.php:66
+msgid "gop"
+msgstr "图像组"
+
+#: ipc-settings.php:73 ipc-settings.php:846
+msgid "resolution"
+msgstr "分辨率"
+
+#: ipc-settings.php:101
+msgid "Audio"
+msgstr "音频"
+
+#: ipc-settings.php:105 ipc-settings.php:200 ipc-settings.php:237
+#: ipc-settings.php:767 ipc-settings.php:811
+msgid "enabled"
+msgstr "启用"
+
+#: ipc-settings.php:129
+msgid "channels"
+msgstr "管道"
+
+#: ipc-settings.php:141
+msgid "device options"
+msgstr "设备选项"
+
+#: ipc-settings.php:147
+msgid "format"
+msgstr "格式"
+
+#: ipc-settings.php:153
+msgid "samplerate"
+msgstr "采样率"
+
+#: ipc-settings.php:196
+msgid "Backchannel"
+msgstr ""
+
+#: ipc-settings.php:217
+msgid "encoding"
+msgstr "编码"
+
+#: ipc-settings.php:233
+msgid "Gdc"
+msgstr ""
+
+#: ipc-settings.php:248
+msgid "config file"
+msgstr "配置文件"
+
+#: ipc-settings.php:254
+msgid "input resolution"
+msgstr "输入分辨率"
+
+#: ipc-settings.php:260
+msgid "output resolution"
+msgstr "输出分辨率"
+
+#: ipc-settings.php:276
+msgid "Isp"
+msgstr "图像调整"
+
+#: ipc-settings.php:280
+msgid "brightness"
+msgstr "亮度"
+
+#: ipc-settings.php:288
+msgid "contrast"
+msgstr "对比度"
+
+#: ipc-settings.php:295
+msgid "exposure auto"
+msgstr "自动曝光"
+
+#: ipc-settings.php:306
+msgid "exposure absolute"
+msgstr "绝对曝光"
+
+#: ipc-settings.php:312
+msgid "hue"
+msgstr "色调"
+
+#: ipc-settings.php:318
+msgid "ircut"
+msgstr "过滤红外线"
+
+#: ipc-settings.php:329
+msgid "saturation"
+msgstr "饱和度"
+
+#: ipc-settings.php:336
+msgid "sharpness"
+msgstr "锐度"
+
+#: ipc-settings.php:343
+msgid "wdr enabled"
+msgstr "启用宽动态"
+
+#: ipc-settings.php:354
+msgid "white balance auto"
+msgstr "自动白平衡"
+
+#: ipc-settings.php:365
+msgid "white balance CbGain"
+msgstr "白平衡CbGain"
+
+#: ipc-settings.php:371
+msgid "white balance CrGain"
+msgstr "白平衡CrGain"
+
+#: ipc-settings.php:387
+msgid "Nn"
+msgstr ""
+
+#: ipc-settings.php:391
+msgid "detection enabled"
+msgstr "检测启用"
+
+#: ipc-settings.php:402
+msgid "detection model"
+msgstr "检测模型"
+
+#: ipc-settings.php:423
+msgid "FaceNet enabled"
+msgstr "FaceNet启用"
+
+#: ipc-settings.php:436
+msgid "FaceNet info string"
+msgstr "FaceNet信息字符串"
+
+#: ipc-settings.php:442
+msgid "FaceNet threshold"
+msgstr "FaceNet阈"
+
+#: ipc-settings.php:460
+msgid "Overlay"
+msgstr "叠加层"
+
+#: ipc-settings.php:463
+msgid "nn"
+msgstr ""
+
+#: ipc-settings.php:467
+msgid "detction show"
+msgstr "检测显示"
+
+#: ipc-settings.php:478
+msgid "detction rect color"
+msgstr "检测框颜色"
+
+#: ipc-settings.php:487
+msgid "FaceNet show"
+msgstr "FaceNet显示"
+
+#: ipc-settings.php:498
+msgid "FaceNet font color"
+msgstr "FaceNet字体颜色"
+
+#: ipc-settings.php:507
+msgid "FaceNet font file"
+msgstr "FaceNet字体文件"
+
+#: ipc-settings.php:513
+msgid "FaceNet font size"
+msgstr "FaceNet字体大小"
+
+#: ipc-settings.php:522
+msgid "FaceNet rect color"
+msgstr "FaceNet矩形颜色"
+
+#: ipc-settings.php:541
+msgid "time"
+msgstr "时间"
+
+#: ipc-settings.php:545
+msgid "date enabled"
+msgstr "日期启用"
+
+#: ipc-settings.php:556
+msgid "date location"
+msgstr "日期位置"
+
+#: ipc-settings.php:584
+msgid "font background color"
+msgstr "字体背景颜色"
+
+#: ipc-settings.php:593
+msgid "font color"
+msgstr "字体颜色"
+
+#: ipc-settings.php:602
+msgid "font file"
+msgstr "字体文件"
+
+#: ipc-settings.php:608
+msgid "font size"
+msgstr "字体大小"
+
+#: ipc-settings.php:617
+msgid "pts enabled"
+msgstr "启用pts"
+
+#: ipc-settings.php:628
+msgid "pts location"
+msgstr "pts位置"
+
+#: ipc-settings.php:666
+msgid "watermark"
+msgstr "水印"
+
+#: ipc-settings.php:670
+msgid "text"
+msgstr "文本"
+
+#: ipc-settings.php:676
+msgid "text font background color"
+msgstr "文本字体背景颜色"
+
+#: ipc-settings.php:685
+msgid "text font foreground color"
+msgstr "文本字体前景颜色"
+
+#: ipc-settings.php:694
+msgid "text font file"
+msgstr "文本字体文件"
+
+#: ipc-settings.php:700
+msgid "text font size"
+msgstr "文本字体大小"
+
+#: ipc-settings.php:709
+msgid "text x"
+msgstr "文本x坐标"
+
+#: ipc-settings.php:715
+msgid "text y"
+msgstr "文本y坐标"
+
+#: ipc-settings.php:721
+msgid "image file"
+msgstr "图像文件"
+
+#: ipc-settings.php:727
+msgid "image height"
+msgstr "图像高度"
+
+#: ipc-settings.php:733
+msgid "image width"
+msgstr "图像宽度"
+
+#: ipc-settings.php:739
+msgid "image x"
+msgstr "图像x坐标"
+
+#: ipc-settings.php:745
+msgid "image y"
+msgstr "图像y坐标"
+
+#: ipc-settings.php:763
+msgid "Video Recording"
+msgstr "视频记录"
+
+#: ipc-settings.php:778
+msgid "chunk duration"
+msgstr "持续时间"
+
+#: ipc-settings.php:784
+msgid "location"
+msgstr "位置"
+
+#: ipc-settings.php:790
+msgid "reserved space size"
+msgstr "预留空间大小"
+
+#: ipc-settings.php:807
+msgid "Substream"
+msgstr "子流"
+
+#: index.php:58 index.php:189
+msgid "Video Preview"
+msgstr "视频预览"
+
